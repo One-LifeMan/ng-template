@@ -1,0 +1,7 @@
+:root {
+  --background: #212121;
+  --on-background: #ccc;
+}
+
+$onBackground: var(--on-background);
+$background: var(--background);
